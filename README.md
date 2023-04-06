@@ -4,9 +4,9 @@
 🌱 I'm studying for master's degree at the MAI<br><br>
 🎓I am a bachelor of software engineering at MAI<br><br>
 📫 How to reach me:
-* [Telegram](t.me/MAD_MAXIMUUS)
+* [Telegram](https://t.me/MAD_MAXIMUUS)
 * [Email](mailto:maxim00nechaev@gmail.com)
-* [LinkedIn](https://www.linkedin.com/in/mad-maximuus-undefined-96536626b/)
+* [LinkedIn](https://www.linkedin.com/in/maxim-nechaev-96536626b/)
 ---
 ### Projects:
 My Android applications:
