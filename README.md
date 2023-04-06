@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-👨‍💻 I am an Android developer
-🌱 I'm studying for master's degree at the MAI
-🎓I am a bachelor of software engineering at MAI
+👨‍💻 I am an Android developer<br>
+🌱 I'm studying for master's degree at the MAI<br>
+🎓I am a bachelor of software engineering at MAI<br>
 📫 How to reach me:
 * [Telegram](t.me/MAD_MAXIMUUS)
 * [Email](mailto:maxim00nechaev@gmail.com)
