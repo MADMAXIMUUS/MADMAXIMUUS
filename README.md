@@ -5,7 +5,7 @@
 🎓I am a bachelor of software engineering at MAI<br><br>
 📫 How to reach me:
 * [Telegram](https://t.me/MAD_MAXIMUUS)
-* [Email](mailto:maxim00nechaev@gmail.com)
+* [maxim00nechaev@gmail.com](mailto:maxim00nechaev@gmail.com)
 * [LinkedIn](https://www.linkedin.com/in/maxim-nechaev-96536626b/)
 ---
 ### Projects:
