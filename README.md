@@ -26,6 +26,5 @@ Another projects:
 * Course work C#, WinForm, [source](https://github.com/MADMAXIMUUS/GagLab1) _May 2021_
 * Unity Game C#, [source](https://github.com/MADMAXIMUUS/Project_G/tree/master/Assets/Game%20Platformer) _Dec 2020_
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADMAXIMUUS)](https://github.com/MADMAIMUUS/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADMAXIMUUS&show_icons=true&theme=dark)](https://github.com/MADMAIMUUS/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADMAXIMUUS&hide=contribs,prs)
