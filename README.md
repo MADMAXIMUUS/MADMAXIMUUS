@@ -1,16 +1,31 @@
 ### Hi there 👋
 
-<!--
-**MADMAXIMUUS/MADMAXIMUUS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 I am an Android developer
+🌱 I'm studying for master's degree at the MAI
+🎓I am a bachelor of software engineering at MAI
+📫 How to reach me:
+* [Telegram](t.me/MAD_MAXIMUUS)
+* [Email](mailto:maxim00nechaev@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/mad-maximuus-undefined-96536626b/)
+---
+### Projects:
+My Android applications:
+* GenDel, [source](https://github.com/MADMAXIMUUS/Gendel) _Apr 2022_
+* Swap on Compose, [source](https://github.com/MADMAXIMUUS/SwapApp) _July 2022_
+* OwlDiary, [source](https://github.com/MADMAXIMUUS/MadDiary) _current day_
 
-Here are some ideas to get you started:
+Test case applications:
+* 1, [source](https://github.com/MADMAXIMUUS/TestCase) _July 2022_
+* 2, [source](https://github.com/MADMAXIMUUS/TestCase_2) _July 2022_
+* 3, [source](https://github.com/MADMAXIMUUS/TestCaseEffectiveMobile) _Nov 2022_
+* Test Case in Vk, [source](https://github.com/MADMAXIMUUS/VKTestApp) _March 2023_
+* 5, [source](https://github.com/MADMAXIMUUS/testcase3) _March 2023_
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Another projects:
+* Graduate work C#, WPF, [source](https://github.com/MADMAXIMUUS/UMLRedactor) _June 2022_
+* Course work C#, WinForm, [source](https://github.com/MADMAXIMUUS/GagLab1) _May 2021_
+* Unity Game C#, [source](https://github.com/MADMAXIMUUS/Project_G/tree/master/Assets/Game%20Platformer) _Dec 2020_
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADMAXIMUUS)](https://github.com/MADMAIMUUS/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MADMAXIMUUS&hide=contribs,prs)
