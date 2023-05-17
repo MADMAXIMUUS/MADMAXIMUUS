@@ -12,7 +12,8 @@
 My Android applications:
 * GenDel, [source](https://github.com/MADMAXIMUUS/Gendel) _Apr 2022_
 * Swap on Compose, [source](https://github.com/MADMAXIMUUS/SwapApp) _July 2022_
-* OwlDiary, [source](https://github.com/MADMAXIMUUS/MadDiary) _current day_
+* OwlDiary, [source](https://github.com/MADMAXIMUUS/MadDiary) _March 2023_
+* Rabbit, [source](https://github.com/MADMAXIMUUS/Rabbit) _current day_
 
 Test case applications:
 * 1, [source](https://github.com/MADMAXIMUUS/TestCase) _July 2022_
