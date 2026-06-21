@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-👨‍💻 I am an Android developer<br><br>
-🌱 I'm studying for master's degree at the MAI<br><br>
-🎓I'm a bachelor of software engineering at MAI<br><br>
+👨‍💻 I am an Android/Kotlin ecosystem developer<br><br>
+🎓I'm a master degree of software engineering at MAI<br><br>
 💼I work for a scooter sharing company "KIK" LLC<br><br>
 
 📫 How to reach me:
